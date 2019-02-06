@@ -1,0 +1,5 @@
+print ("Hello World")
+print ("Fuck You")
+print("This is so great")
+print("I'd much rather not")
+print('I "said" do not tuch this')
